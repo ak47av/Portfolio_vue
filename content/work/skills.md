@@ -10,22 +10,26 @@ tags: skills
 # Skills:
 
   <div align="left">
-    <details>
-    <summary> Embedded systems </summary>
+  <details>
+  <summary style="display:block"> 
+
+## Embedded systems 
+
+  </summary>
   
-  ### Platforms used
-  * Arduino
-  * ARM
-  * NodeMCU
-  * Raspberry pi
+  * ### Platforms used
+    * Arduino 
+    * ARM 
+    * NodeMCU 
+    * Raspberry pi
   * ### Projects done
     * <nuxt-link to="/lightupdress"> Light-up Dress </nuxt-link>
   * ### Tools used
-    * MATLAB
-    * Arduino IDE
-    * Node-Red
+     * MATLAB 
+     * Arduino IDE
+     * Node-Red
   
-    </details>
+</details>
   
   </div>
 
@@ -33,7 +37,11 @@ tags: skills
 <div align="left">
     <details>
 
-<summary> Software </summary>
+<summary style="display:block"> 
+
+## Software 
+
+</summary>
 
 * ### Coding Languages
   * #### C/C++
@@ -56,7 +64,11 @@ tags: skills
 
 <details>
 
-<summary> Digital Design </summary>
+<summary style="display:block" > 
+
+## Digital Design 
+
+</summary>
 
 * ### Hardware Languages
   * Verilog

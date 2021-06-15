@@ -1,6 +1,14 @@
 <template>
     <div class="home-page">
 
+      <div class="about">
+        <h3> About Myself </h3>
+        <p>
+          I am Arun Vijay, from Coimbatore. A student of Electronics and Communication at Amrita School of Engineering. I work on Embedded systems and Digital electronics.
+          I like working on software on a variety of platforms, and I am looking for job opportunities in the Electronics Engineering sector.
+        </p>
+      </div>
+
           <!-- Display articles in separate cards -->
 
           <div class="articles">
@@ -27,7 +35,10 @@ export default {
       .only(['title', 'description', 'slug'])
       .where({tags: 'skills'})
       .fetch();
-    return {articles};
+    const about = await $content('work', params.slug)
+      .where({tags: 'about'})
+      .fetch();
+    return {articles, about};
   }
 }
 </script>
