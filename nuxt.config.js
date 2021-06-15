@@ -25,6 +25,8 @@ export default {
   css: [
   ],
 
+  render: { fallback: false },
+
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
   ],
@@ -34,6 +36,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxt/image'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

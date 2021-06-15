@@ -6,6 +6,33 @@ tags: project
 ---
 
 
-# Some text
+<div align="center">
 
-We've just launched Vue Material Dashboard PRO and Vue Material Kit PRO. Every product has a huge number of components, sections and example pages. Start Your Development With A Badass Bootstrap UI Kit inspired by Material Design. 
+# Light-up Dress
+  <nuxt-img src="lightupdress.jpeg" alt="dress" height="500px" width="300px"/>
+</div>
+
+<div class="text" align="center">
+
+<p>
+  A friend of mine who is a fashion designer came to me asking to fit LED lights to her dress. And so I did it.
+</p>
+
+<b-card align="centre" style="max-width:40rem;">
+  
+  <h2> Items required  </h2>
+  
+  <div align="left">
+    <ul>
+    <li> Arduino Pro-mini 5V/16Mhz </li>
+    <li> 11.1V Li-Po Battery </li>
+    <li> DC Mosfet driver (I used an IF620 here) </li>
+  </ul>
+  </div>
+  
+  
+</b-card>
+
+</div>
+
+

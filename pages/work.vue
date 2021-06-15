@@ -7,7 +7,7 @@
         <div class="article" v-for="article of articles" :key="article">
           <nuxt-link :to="{ name: 'slug', params: {slug: article.slug} }">
             <div class="detail">
-              <b-card v-bind:title="article.title" style="max-width: 20rem;"  class="mb-2">
+              <b-card v-bind:title="article.title" style="max-width: 20rem;"  class="mb-2" img-src="~/static/lightupdress.png" >
                 <b-card-text>
                   {{article.description}}
                 </b-card-text>

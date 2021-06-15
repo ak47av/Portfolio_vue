@@ -2,14 +2,16 @@
     <div class="home-page">
 
       <div class="about">
-        <h3> About Myself </h3>
-        <p>
+
+        <b-card>
+          <h3> About Myself </h3>
           I am Arun Vijay, from Coimbatore. A student of Electronics and Communication at Amrita School of Engineering. I work on Embedded systems and Digital electronics.
           I like working on software on a variety of platforms, and I am looking for job opportunities in the Electronics Engineering sector.
-        </p>
+        </b-card>
+
       </div>
 
-          <!-- Display articles in separate cards -->
+      <!-- Display articles in separate cards -->
 
           <div class="articles">
             <div class="article" v-for="article of articles" :key="article">
