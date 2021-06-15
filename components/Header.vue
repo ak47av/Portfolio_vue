@@ -1,5 +1,6 @@
 <template>
   <header class="header-attributes">
+
     <b-navbar class="navigation" toggleable="lg">
       <b-navbar-brand href="#">Arun Vijay</b-navbar-brand>
 
@@ -11,10 +12,19 @@
             <nuxt-link to="/"> Home </nuxt-link>
           </b-nav-item>
           <b-nav-item>
-            <nuxt-link to="/"> About </nuxt-link>
+            <nuxt-link to="/work"> My Work </nuxt-link>
+          </b-nav-item>
+          <b-nav-item>
+            <nuxt-link to="/skills"> Skills </nuxt-link>
+          </b-nav-item>
+          <b-nav-item>
+            <nuxt-link to="/resume"> Resume </nuxt-link>
           </b-nav-item>
         </b-navbar-nav>
       </b-collapse>
+
+
+
     </b-navbar>
   </header>
 </template>

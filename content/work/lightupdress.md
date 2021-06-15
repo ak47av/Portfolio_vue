@@ -1,7 +1,8 @@
 ---
-title: My Portfolio 
-description: Using the content module
-slug: first-post
+title: Light-up dress
+description: An LED strip controlled by Arduino attached to a dress
+slug: lightupdress
+tags: project
 ---
 
 
