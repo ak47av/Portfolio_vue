@@ -16,7 +16,7 @@ image: lightupdress.jpeg
 <div class="text" align="center">
 
 <p>
-  A friend of mine who is a fashion designer came to me asking to fit LED lights that changed color according to the ambient brightness level in the surroundings to her dress. And so I did it.
+  A friend of mine who is a fashion designer came to me with a request to fit LED lights that changed color according to the ambient brightness level in the surroundings to her dress. The LED glows blue when the brightness is high, and red when the brightness is low.
 </p>
 
 <b-card align="centre" style="max-width:40rem;">
@@ -28,11 +28,12 @@ image: lightupdress.jpeg
     <li> Arduino Pro-mini 5V/16Mhz </li>
     <li> 11.1V Li-Po Battery </li>
     <li> 12V RGB strip </li>
+    <li> Light dependent resistor (LDR) </li>
+    <li> Reference resistor for voltage divider with LDR </li>	
     <li> DC Mosfet driver (I used an IRF620 here) </li>
     <li> PCB </li>
     <li> DPDT Switch </li>
     <li> DC-DC buck boost step down converter </li>
-    <li>  </li>
   </ul>
   </div>
   

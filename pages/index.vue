@@ -26,6 +26,16 @@
         </ul>
       </b-card>
 
+      <b-card class="about home-page-item" style="border-radius:3%">
+        <h3 class="about-myself"> Work experience </h3>
+        <ul>
+          <li>
+            <p>Intern at Spark Drives and automation, Coimbatore (April - May 2019). <br>
+              Role: Worked on a simple software prototype for a vending machine on Raspberry-Pi.</p>
+          </li>
+        </ul>
+      </b-card>
+
       <nuxt-link :to="{ name: 'slug', params: {slug: skills.slug} }" class="home-page-item" style="color:rgb(233, 68, 101); border-radius:3%; max-width: 25%">
         <b-card :title=skills.title img-src="~/static/arduino.jpg" align="center">
           <b-card-text>

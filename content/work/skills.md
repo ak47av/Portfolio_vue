@@ -55,7 +55,7 @@ tags: skills
     * VueJS (frontend)
     * NodeJS (express backend)
 * #### Projects done
-  *  <a href="https://comm-theory-sem6-project.vercel.app/amplitude_mod"> A Visualization of Analog Modulation schemes using Javascript </a>
+  *  <a href="https://comm-theory-sem6-project.vercel.app/amplitude_mod" target="_blank" rel="noopener noreferrer"> A Visualization of Analog Modulation schemes using Javascript </a>
 
 </details>
 

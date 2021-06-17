@@ -6,6 +6,7 @@
             <b-card class="cards" :img-src= article.image >
               <b-card-text>
                 <nuxt-link :to="{ name: 'slug', params: {slug: article.slug} }"> {{article.title}} </nuxt-link>
+                <br>
                 {{article.description}}
               </b-card-text>
             </b-card>

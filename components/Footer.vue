@@ -8,8 +8,8 @@
 
         <p class="footer-items">
           Social <br>
-          <a href="https://www.linkedin.com/in/arun-vijay-61248b17a/">Linkedin</a>
-          / <a href="https://github.com/ak47av">Github</a>
+          <a href="https://www.linkedin.com/in/arun-vijay-61248b17a/" target="_blank" rel="noopener noreferrer">Linkedin</a>
+          / <a href="https://github.com/ak47av" target="_blank" rel="noopener noreferrer">Github</a>
         </p>
 
         <p class="footer-items">

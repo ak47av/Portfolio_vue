@@ -1,6 +1,6 @@
 ---
 title: Temperature and Humidity monitor
-description: DHT11 Temperature and humidity monitor with keypad and i2c LCD
+description: DHT11 Temperature and humidity monitor with keypad and I2C LCD
 slug: tempHumMonitor
 tags: project
 image: /temp_hum/temp.jpeg
