@@ -30,7 +30,7 @@
         <h3 class="about-myself"> Work experience </h3>
         <ul>
           <li>
-            <p>Intern at Spark Drives and automation, Coimbatore (April - May 2019). <br>
+            <p> <nuxt-link to="/internship"> Intern at Spark Drives and automation, Coimbatore (April - May 2019). </nuxt-link> <br>
               Role: Worked on a simple software prototype for a vending machine on Raspberry-Pi.</p>
           </li>
         </ul>

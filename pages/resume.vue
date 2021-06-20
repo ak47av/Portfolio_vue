@@ -5,13 +5,13 @@
       <p style="color:black"> View Resume on Canva </p>
     </a>
 
-    <div style=" width: 70%; height: 10%; padding-top: 45.4286%;
- padding-bottom: 48px; margin-top: 1.6em; margin-bottom: 0.9em; overflow: scroll;
- border-radius: 8px; will-change: transform;">
-      <iframe loading="lazy" display="inline-block" style="position: absolute; height:100%; width: 90%; top: 30px; margin-left: auto; border: none; padding: 15px;"
-              src="https://www.canva.com/design/DADvxChLkVk/view?embed" >
-      </iframe>
-    </div>
+<!--    <div style=" width: 70%; height: 10%; padding-top: 45.4286%;-->
+<!-- padding-bottom: 48px; margin-top: 1.6em; margin-bottom: 0.9em; overflow: scroll;-->
+<!-- border-radius: 8px; will-change: transform;">-->
+<!--      <iframe loading="lazy" display="inline-block" style="position: absolute; height:100%; width: 90%; top: 30px; margin-left: auto; border: none; padding: 15px;"-->
+<!--              src="https://www.canva.com/design/DADvxChLkVk/view?embed" >-->
+<!--      </iframe>-->
+<!--    </div>-->
   </div>
 </template>
 

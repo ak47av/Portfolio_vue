@@ -17,6 +17,11 @@
           +91 8754072188
         </p>
 
+        <p>
+          This website was made with <br>
+          <a href="https://nuxtjs.org/" target="_blank" rel="noopener noreferrer">Nuxt JS </a>
+        </p>
+
       </div>
   </footer>
 </template>
@@ -28,6 +33,10 @@ export default {
 </script>
 
 <style scoped>
+
+p{
+  font-size: 16px;
+}
 
 .footer-container{
   display: flex;
@@ -47,6 +56,7 @@ export default {
   vertical-align: center;
   clear:both;
   height: 2.5rem;
+  font-size: 1rem;
 }
 p:hover{
   text-decoration:underline;
